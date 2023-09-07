@@ -1,0 +1,15 @@
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\bin\Debug\net6.0\DentalHospital.Services.deps.json
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\bin\Debug\net6.0\DentalHospital.Services.dll
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\bin\Debug\net6.0\DentalHospital.Services.pdb
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.csproj.AssemblyReference.cache
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.GeneratedMSBuildEditorConfig.editorconfig
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.AssemblyInfoInputs.cache
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.AssemblyInfo.cs
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.csproj.CoreCompileInputs.cache
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.dll
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\refint\DentalHospital.Services.dll
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.pdb
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\ref\DentalHospital.Services.dll
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\bin\Debug\net6.0\DentalHospital.Domain.dll
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\bin\Debug\net6.0\DentalHospital.Domain.pdb
+E:\projectDentalHospital\Implemntaion\DentalHospital\DentalHospital.Services\obj\Debug\net6.0\DentalHospital.Services.csproj.CopyComplete
